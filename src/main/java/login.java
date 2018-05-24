@@ -4,7 +4,7 @@ public class main()
 	{
 		int i=40;
 		{
-			system.out.println("print the values")
+			system.out.println("print the values");
 		}
 	}	
 
